@@ -1,0 +1,14 @@
+首段 - 静态图
+       在图表中可以观察到一个非常引人注目的现象。所有数据中最显著的一项占xx%。紧随其后的是另一个类别，其份额为xx%。
+此外，其余的比例分别为xx%、xx%和xx%。
+
+       A highly conspicuous phenomenon can be observed in the chart. The most significant portion among the data stands at xx%.
+Following closely is another category with a xx% share. In addition, the remaining proportions are distributed at xx%, xx%，and xx% respectively.
+
+首段 - 动态图
+      从图表中可以明显看出一个特别值得注意的现象。变化最大的一项数据从xxx(上升/下降)到xxx. 
+另一组数据的变化幅度不那么明显，其在同一时期从xxx(增加/减少)到xxx。(此外，其余类别有一个相对的波动)
+
+      A particularly striking phenomenon
+
+
