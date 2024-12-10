@@ -9,6 +9,33 @@ Following closely is another category with a xx% share. In addition, the remaini
       从图表中可以明显看出一个特别值得注意的现象。变化最大的一项数据从xxx(上升/下降)到xxx. 
 另一组数据的变化幅度不那么明显，其在同一时期从xxx(增加/减少)到xxx。(此外，其余类别有一个相对的波动)
 
-      A particularly striking phenomenon
+      A particularly striking phenomenon is evident from the chart. The one data set with the most significant change has (risen/fallen) from
+xxx to xxx. Another data set exhibits a less pronounced variation, (increasing/decreasing) from xxx to xxx over the same period.
+(Moreover, the remaining category has fluctuated relatively.)
+
+
+第二段
+        不难发现一些导致这些变化（动态）/这些差异（静态）的因素。首先，显而易见的是，经济社会的快速发展以及生活条件的改善，
+催生了这一趋势（动态）/这些对比（静态）。此外，不可否认的是，地方政府最近更加重视并实施了相关政策。这对推动这一倾向（动态）/造成这一现象（静态）起到了重要作用。最后，不言而喻的是，人们态度的变化，加上更好的教育，鼓励了更多人做出这些选择。
+
+/ 在我看来，个人态度/学生的意愿 是这一事项背后至关重要的决定因素之一。
+
+        It is not difficult to identify some factors that account for these changes(动)/this difference(静). 
+To start with, it is apparent that the rapid development of the economy and society, as well as the improvement in living 
+conditions, has led to the emergence of the trend(动)/these contrasts(静). In addition, there is no denying that local authorities
+have recently put greater emphasis on and implemented relevant policies,which has played a signigicant role in 
+driving this tendency(动)/causing such a phenomenon(静). Finally , it goes without saying that the changing attitudes of people,
+coupled with better education, have encouraged more people to make these choices.
+
+/ From my perspective, personal attitude/students' willingness is one of the crucial determinants underlying this matter.
+
+
+
+尾段 - 动静通用
+       鉴于上述论证，可以得出结论，这种现象是个人进步和社会发展共同作用的必然结果，并且在可预见的未来将继续存在。
+
+       Given the evidence above, it can be concluded that this phenomenon is an inevitable outcome of the combined
+effects of personal progress and societal growth, and it will continue for the foreseeable future.
+
 
 
